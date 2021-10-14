@@ -1,0 +1,72 @@
+@media only screen and (max-width: 920px)  {
+            .block-header{
+                display: none;
+            }
+            .block-header-mobile{
+                display: block;
+            }
+.wrapper {
+            padding-top: 70px;
+        }
+            .game-slider-table, .game-slider-title{
+                margin-right: 23px;
+            }
+            .slider-home  .slider-mobile{
+                display: none !important;
+            }
+            .account .account-photo{
+                height: 160px !important;
+            }
+            .m-text-center{
+                text-align: center !important;
+            }
+            .m-pb-10{
+                padding-bottom: 10px !important;
+            }
+            .m-mb-10{
+                margin-bottom: 10px !important;
+            }
+            .m-p-0{
+                padding: 0 !important;
+            }
+            .buy{
+                display: flex !important;
+                justify-content: space-between !important;
+            }
+            .for-svg{
+                display: none !important;
+            }
+            .btn-mini{
+                margin-top: 5px;
+    margin-bottom: 5px;
+                line-height: 32px
+            }
+            .game{
+                margin-right: 0 !important;
+            }
+            .otzivi-icon{
+                display: none;
+            }
+            .vopros{
+                font-size: 12px !important;
+            }
+            .why-we img{
+                margin-bottom: 20px;
+                width: 100%;
+                height: 78px;
+            }
+            .second-img-why{
+                height: 85px !important;
+            }
+            .account-g{
+                display: none;
+            }
+        }
+        @media only screen and (min-width: 920px)  {
+            .block-header{
+                display: block;
+            }
+            .block-header-mobile{
+                display: none;
+            }
+        }
